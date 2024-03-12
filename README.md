@@ -1,6 +1,16 @@
 # Information-paper-The-potential-of-WECs-in-Galapagos-
 This repo contains all data and its sources to replicate the results of the paper: "The potential of wave energy converters (WEC) for the long-term energy transition of the Galapagos Islands"
 
+# Abstract 
+
+Wave energy converters (WEC) are one of the options for the long-term decarbonization in the Galapagos islands. However, its energy potential has not yet been studied. This work estimates the
+different levels of WEC energy potential: gross, sustainable and tecno-economic. To assess the WEC long-term techno-economic potential, by island, an application for Galapagos of the OSeMOSYS
+energy planning model is developed. The results show that WECs have significant energy potential in the Galapagos, with a gross potential of 262 TWh/year, a sustainable potential of 25TWh/year
+and a technical potential varying between 92 and 152 MWh/year, in a WEC development longterm scenario. However, WECs are currently less economically competitive than other electricity
+production technologies based on renewable energy sources, such as solar photovoltaics and wind. For instance, WECs have the highest levelized cost of electricity (LCOE) (52 ct.USD/kWh) at the
+beginning of the period and (26 ct.USD/kWh) by the end of the period. Furthermore, in the WEC scenario (without subsidies), the mean generation cost increases in comparison to the reference
+scenario, this difference across all islands is 1.2 USD cents in 2030, and 3.8 cents in 2050. Thus, its economic potential still depends on specific energy, industrial and environmental policies.
+
 # Data
 
 ## OSeMOSYS Galapagos Results
